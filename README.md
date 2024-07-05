@@ -1,2 +1,1 @@
-# LogisticRegression
 Logistic Regression
